@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://gstmaker.com/favicon.ico" width="90" alt="GST Maker Logo">
+<img src="https://github.com/adityasysnet/gstmaker/blob/main/logo-gstmaker.png?raw=true" width="90" alt="GST Maker Logo">
 
 # GST Maker
 

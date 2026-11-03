@@ -1,20 +1,19 @@
 # GST Maker – Smart GST Billing, Invoicing & Business Management Platform 🇮🇳
 
-\<p align="center">
-&#x20; \<img src="[https://gstmaker.com/favicon.ico](https://gstmaker.com/favicon.ico)" alt="GST Maker Logo" width="90" />
-\</p>
+<div align="center">
 
-\<h3 align="center">Simplifying GST Billing. Empowering Indian Businesses.\</h3>
+<img src="https://gstmaker.com/favicon.ico" width="90" alt="GST Maker Logo">
 
-\<p align="center">
-&#x20; \<strong>A modern, AI-powered GST invoicing and business management platform built for Indian freelancers, consultants, startups, agencies, and small businesses.\</strong>
-\</p>
+# GST Maker
 
-\<p align="center">
-&#x20; \<a href="[https://gstmaker.com](https://gstmaker.com)">Official Website\</a> •
-&#x20; \<a href="[https://gstmaker.com/features](https://gstmaker.com/features)">Explore Features\</a> •
-&#x20; \<a href="[https://gstmaker.com/about](https://gstmaker.com/about)">About GST Maker\</a>
-\</p>
+### Simplifying GST Billing. Empowering Indian Businesses.
+
+**A modern, AI-powered GST invoicing and business management platform built for Indian freelancers, consultants, startups, agencies, and small businesses.**
+
+[Official Website](https://gstmaker.com) •
+[Explore Features](https://gstmaker.com/features)
+
+</div>
 
 ---
 
@@ -470,10 +469,16 @@ If you find GST Maker useful, help us grow by:
 
 ---
 
-\<p align="center">
-&#x20; \<strong>GST Maker – Smart Billing. Smarter Business.\</strong>
-&#x20; \<br/>
-&#x20; Built for Indian Businesses 🇮🇳
-&#x20; \<br/>\<br/>
-&#x20; © 2026 GST Maker. All Rights Reserved.
-\</p>
+---
+
+<div align="center">
+
+### GST Maker – Smart Billing. Smarter Business.
+
+Built for Indian Businesses 🇮🇳
+
+**© 2026 GST Maker. All Rights Reserved.**
+
+[Visit GST Maker](https://gstmaker.com)
+
+</div>
